@@ -10,6 +10,8 @@ public class EmployeeService {
     Employee emp2=new Employee(102, "Marvellous", 26, "Tester","CO", 57000);
     Employee emp3=new Employee(103, "Agbons", 20, "DevOps Eng","Admin", 5000);
     Employee emp4=new Employee(104, "Jide", 27, "System Eng","CO",  70000);
+    Employee emp5=new Employee(105,"Uzoma", 33, "Software Tester","HO",100000);
+    Employee emp6=new Employee(106,"Ibezim", 34, "Software Tester","HO",105000);
 
     Scanner sc=new Scanner(System.in);
     boolean found=false;
